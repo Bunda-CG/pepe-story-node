@@ -1,0 +1,14 @@
+{
+  "name": "pepe-story-node",
+  "version": "1.0.0",
+  "description": "Mini CG project about creating short animation from basic graphics library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^12.4.2"
+  }
+}
